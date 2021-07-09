@@ -1,4 +1,5 @@
 # <center>Browser Rendering</center><h1>
+
 <img class="circular--square" src="VARSHA.jpeg" width="50" height="50"/> By <font color = "blue">Varsha Saraf</font>
 
 ### *what is Browser Rendering?*
