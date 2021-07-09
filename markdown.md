@@ -1,11 +1,4 @@
 # <center>Browser Rendering</center><h1>
-<style> .circular--square {
-  border-top-left-radius: 50% 50%;
-  border-top-right-radius: 50% 50%;
-  border-bottom-right-radius: 50% 50%;
-  border-bottom-left-radius: 50% 50%;
-}
-}</style>
 <img class="circular--square" src="VARSHA.jpeg" width="50" height="50"/> By <font color = "blue">Varsha Saraf</font>
 
 ### *what is Browser Rendering?*
@@ -24,7 +17,7 @@ Process of Browser Rendering:
 > * It constructs the Render-Tree from it after these trees get constructed.
 
 
-![Render Tree](rendertree.png)
+![Render Tree]
 
 ### Before describing about the whole process on rendering, let us know about some terms:
 
